@@ -1,0 +1,1 @@
+This is a learning project under the Odin Project.  I'm just now learning the basics of Git along with HTML, CSS, and Javascript.  Also, I'm using VS code and developing expertise in using that app for development.
